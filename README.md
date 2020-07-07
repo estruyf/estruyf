@@ -1,6 +1,6 @@
 # ⚡️ Elio Struyf
 
-⌨️ Office Development MVP / 💼 Engineering lead at [Valo Intranet](https://valointranet.com) / 💛 Microsoft 365 & Azure & Development
+⌨️  Office Development MVP / 💼  Engineering lead at [Valo Intranet](https://valointranet.com) / 💛  Microsoft 365 & Azure & Development
 
 ## 👨‍💻 About me
 
