@@ -40,10 +40,9 @@ Elio’s inspiration for his blog began back in 2010 when he was facing a challe
 
 When he isn’t helping fellow IT developers, you can find Elio Struyf on his bike, coding, gaming (the Final Fantasy games are his favorite), binge-watching anime, or building random structures with Legos.
 
-<!-- ## 🖋 Blogging -->
+## 🖋 Blogging
 
-<!-- dev -->
-<!-- devend -->
+<img src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=3" />
 
 ## 🎙 Speaking
 
