@@ -44,6 +44,8 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 
 <img src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=3" />
 
+![](https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=3)
+
 ## 🎙 Speaking
 
 Elio speaks at various conferences\*. If you are interested in having him at your conference, you can check out his [session list](https://www.eliostruyf.com/sessions/).
