@@ -42,7 +42,7 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 
 ## 🖋 Blogging
 
-[![](https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true)](#)
+<object type="image/svg+xml" data="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/>
 
 ## 🎙 Speaking
 
