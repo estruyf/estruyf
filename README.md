@@ -4,7 +4,7 @@
 
 <p align='center'>
    <a href="https://www.eliostruyf.com">
-     <img src="https://img.shields.io/badge/ElioStruyf-blog-%230A0A0A.svg?&style=for-the-badge&logo=ElioStruyf&logoColor=white" />
+     <img src="https://img.shields.io/badge/ElioStruyf-blog-%23025a5f.svg?&style=for-the-badge&logo=ElioStruyf&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a href="https://twitter.com/eliostruyf">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
