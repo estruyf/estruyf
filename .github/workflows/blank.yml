@@ -3,7 +3,7 @@ name: Update this repo's README
 on:
   schedule:
     # Once a day at 8 AM
-    - cron: '*/1 * * * *'
+    - cron: 0 */1 * * *
 
 jobs:
   update:
