@@ -2,6 +2,18 @@
 
 ⌨️  Office Development MVP / 💼  Engineering lead at [Valo Intranet](https://valointranet.com) / 💛  Microsoft 365 & Azure & Development
 
+<p align='center'>
+   <a href="https://twitter.com/eliostruyf">
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/estruyf">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/eliostruyf">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+</p>
+
 ## 👨‍💻 About me
 
 Elio is an independent Belgium-based Engineering Lead, Blogger, and Public Speaker whose tenacity, determination, and drive have earned him the reputation as a trusted thought leader in the information technology space. Deeply passionate about what he does for a living, he is a firm believer in following your dreams no matter what. To him, one’s profession should also be their purpose. Furthermore, he believes that we only have this one life to live, so we should spend that life feeling truly fulfilled both professionally and personally.
