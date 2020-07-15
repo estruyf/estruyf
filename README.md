@@ -30,6 +30,12 @@
   </a>
 </p>
 
+<p align='center'>
+   <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=estruyf&countColor=%232ea44f" />
+   </a>
+</p>
+
 ## 👨‍💻 About me
 
 Elio is an independent Belgium-based Engineering Lead, Blogger, and Public Speaker whose tenacity, determination, and drive have earned him the reputation as a trusted thought leader in the information technology space. Deeply passionate about what he does for a living, he is a firm believer in following your dreams no matter what. To him, one’s profession should also be their purpose. Furthermore, he believes that we only have this one life to live, so we should spend that life feeling truly fulfilled both professionally and personally.
