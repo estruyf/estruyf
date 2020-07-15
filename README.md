@@ -81,7 +81,7 @@ We find laptops just dull and want to spice them up with some sticker art. As th
 - Blog: [eliostruyf.com](https://www.eliostruyf.com)
 
 <p align='center'>
-   <a href="#">
+   <a href="https://github.com/estruyf/github-visitors-badge">
       <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=estruyf" />
    </a>
 </p>
