@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Parse application&#x2F;x-www-form-urlencoded in Azure Function](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;z1GwOqghYgA&#x2F;)
 * [Which service? Netlify vs Vercel vs Azure Static Web App](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;NF25mkmz720&#x2F;)
 * [Manual GitHub workflow triggers for Azure Static Web Site](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;im-38wCY8AM&#x2F;)
 * [How to make local Azure Static Web App development easier](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;LdDxB-mWgH4&#x2F;)
 * [End-to-End testing your Microsoft Teams solutions with Cypress](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;1d4a6Zaaa4A&#x2F;)
-* [Utility functions which you might not know existed in SPFx](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;G23RTLtoMIA&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
