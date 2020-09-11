@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Running #PYOD online store with PowerPlatform and Azure](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;fLCJAwcVQmM&#x2F;)
 * [PnP Virtual Conference: Start UI testing your solutions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;woYvYpDf9SY&#x2F;)
 * [Parse multipart&#x2F;form-data in Azure Function](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;3y0KbXMxvgU&#x2F;)
 * [Why I picked Cypress over Selenium](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;FYxfA6HxlJc&#x2F;)
 * [Retrieving the CosmosDB query continuation token in Node.js](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;Z9deHiNzAwo&#x2F;)
-* [Parse application&#x2F;x-www-form-urlencoded in Azure Function](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;z1GwOqghYgA&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
