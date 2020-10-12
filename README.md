@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [#DevHack: Simple caching in Node.js Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;emVEy6Cgwiw&#x2F;)
 * [#DevHack: Microsoft Edge - Network Console](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;cJiKnJIO4gg&#x2F;)
 * [SPFx issues with the new Referrer-Policy in Chrome &gt;&#x3D; 85](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;UGzg2MHfMPk&#x2F;)
 * [Redesign of my blog with Tailwind](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;9A_FX6CCkEs&#x2F;)
 * [Running #PYOD online store with PowerPlatform and Azure](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;fLCJAwcVQmM&#x2F;)
-* [PnP Virtual Conference: Start UI testing your solutions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;woYvYpDf9SY&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
