@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Running the CollabDays Benelux event on Azure Static Web App](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;xTF2JpzeK2g&#x2F;)
 * [#DevHack: Deep linking to Microsoft Teams in Android and iOS](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;afqLRJ6a6jA&#x2F;)
 * [What is the right approach to cache data in your solution?](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;XekR1Wh_Iyg&#x2F;)
 * [#DevHack: Simple caching in Node.js Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;emVEy6Cgwiw&#x2F;)
 * [#DevHack: Microsoft Edge - Network Console](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;cJiKnJIO4gg&#x2F;)
-* [SPFx issues with the new Referrer-Policy in Chrome &gt;&#x3D; 85](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;UGzg2MHfMPk&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
