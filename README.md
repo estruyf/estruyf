@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [My take on the Next.js framework](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;7ZcDoe50Cd0&#x2F;)
 * [#DevHack: Configuring domains for your branches on Vercel](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;Yg73L6sxHdQ&#x2F;)
 * [#DevHack: Getting some clarity in your site analytics](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;hOI1UYEtVNc&#x2F;)
 * [#DevHack: Dynamic manifests for Progressive Web App aka PWA](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;d0t8A7Mm5Gk&#x2F;)
 * [Running the CollabDays Benelux event on Azure Static Web App](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;xTF2JpzeK2g&#x2F;)
-* [#DevHack: Deep linking to Microsoft Teams in Android and iOS](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;afqLRJ6a6jA&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
