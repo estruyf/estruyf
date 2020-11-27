@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [#DevHack: Optimizing initial load JS from Next.js](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;XNEq1S9VQIY&#x2F;)
 * [#DevHack: Create SharePoint library with the Microsoft Graph](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;NrTqp6WYuzM&#x2F;)
 * [My take on the Next.js framework](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;7ZcDoe50Cd0&#x2F;)
 * [#DevHack: Configuring domains for your branches on Vercel](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;Yg73L6sxHdQ&#x2F;)
 * [#DevHack: Getting some clarity in your site analytics](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;hOI1UYEtVNc&#x2F;)
-* [#DevHack: Dynamic manifests for Progressive Web App aka PWA](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;d0t8A7Mm5Gk&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
