@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [#DevHack: Open custom VSCode WebView panel and focus input](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;1jtUkfVISak&#x2F;)
 * [Be aware adding extensions to SharePoint Content Type Hub](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;xDeOlx6Ffl4&#x2F;)
 * [Five tips to make you a better presenter at virtual events](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;GKJCgR-SCyE&#x2F;)
 * [#DevHack: Dismiss messaging extension dialog in MS Teams](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;BQEwzGOhYY0&#x2F;)
 * [#DevHack: Optimizing initial load JS from Next.js](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;XNEq1S9VQIY&#x2F;)
-* [#DevHack: Create SharePoint library with the Microsoft Graph](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;NrTqp6WYuzM&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
