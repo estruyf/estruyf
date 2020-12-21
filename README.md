@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Holding on and making the best out of 2020](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;ikWF0UeQLHo&#x2F;)
 * [#DevHack: Specifying what to run on Vercel dev](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;kqObsaONT7E&#x2F;)
 * [#DevHack: cross-platform testing your tool on GitHub Actions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;b359tYlNNa0&#x2F;)
 * [Doctor - the static site generator for SharePoint](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;Mu2HxuQjWMA&#x2F;)
 * [#DevHack: Open custom VSCode WebView panel and focus input](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;1jtUkfVISak&#x2F;)
-* [Be aware adding extensions to SharePoint Content Type Hub](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;xDeOlx6Ffl4&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
