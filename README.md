@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [#DevHack: Using Azure CDN with SAS on Verizon Premium](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;wjrooU_Tmak&#x2F;)
 * [Using Cloudflare to serve your private Azure Storage Blobs](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;nmZtcoiksjg&#x2F;)
 * [Using Doctor in GitHub Actions for your documentation](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;tgUXFcBDmsI&#x2F;)
 * [#DevHack: CORS for Cloudflare cached Azure Storage blobs](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;85yMmaxDyx8&#x2F;)
 * [#DevHack: Use Cloudflare CDN for your Azure Storage caching](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;9txG47oEiB8&#x2F;)
-* [Holding on and making the best out of 2020](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;ikWF0UeQLHo&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
