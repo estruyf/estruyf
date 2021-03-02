@@ -8,7 +8,7 @@
      <img src="https://img.shields.io/badge/MVP-Office Development-%23D83B01.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.eliostruyf.com/contact" title="Contact me">
-    <img src="https://img.shields.io/badge/Struyf%2020Consulting-Need%20Help%3F-%23ffc100.svg?&style=for-the-badge" />        
+    <img src="https://img.shields.io/badge/Struyf%20Consulting-Need%20Help%3F-%23025a5f.svg?&style=for-the-badge" />        
   </a>
 </p>  
 
