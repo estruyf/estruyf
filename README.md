@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Restart your GitHub Actions workflow when something failed](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;3HWZmTdS3Dw&#x2F;)
 * [Use environment variables in Hugo to show branch information](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;MIZ2Lu3fXnI&#x2F;)
 * [To write code comments or not, it should not be a question](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;agX5gd3Fntw&#x2F;)
 * [#DevHack: Open your VSCode extension settings from the code](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;OHupFZOBTnY&#x2F;)
 * [Using Doctor on Azure DevOps to generate your documentation](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;WjXjsJtNBPw&#x2F;)
-* [#DevHack: GitHub Actions do not run step on schedule](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;vVhVsIOR5yU&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
