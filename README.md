@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [#DevHack: Caching data for your VSCode extension](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;d1HC_wGkQ5Q&#x2F;)
 * [VSCode extension for autocompleting your Microsoft Graph API](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;7ivVqgVPEGo&#x2F;)
 * [Publishing your VSCode Extensions from GitHub Actions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;pj_4NH4JVNY&#x2F;)
 * [#DevHack: Skip GitHub Actions on specific commits messages](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;eIGB35yptms&#x2F;)
 * [DIY: Building a busy light to show your Slack presence](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;lKN_gLIGJq0&#x2F;)
-* [Goodbye Valo World it is time to explore something new](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;t8dnFejEgAo&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
