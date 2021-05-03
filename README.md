@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Deploy your Azure Functions as a package from GitHub Actions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;fIk9HvBpawo&#x2F;)
 * [Deploy your site to Vercel using GitHub Actions and Releases](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;bEKoZb_3JHI&#x2F;)
 * [Securing your Azure Functions with an existing Azure AD app](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;yzgc1cxcyYs&#x2F;)
 * [Using OAuth On-Behalf-Of flow in a Node.js Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;zHVruYmok6E&#x2F;)
 * [#DevHack: Using Raycast to speed up my productivity](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;nM99p0eaQ6w&#x2F;)
-* [Microsoft Graph Essentials extension released for VSCode](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;ydrCdQ8cUHs&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
