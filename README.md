@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [#DevHack: Check if a VSCode extension is running in WSL](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;9cT8djCyBGs&#x2F;)
 * [Generate open graph preview image in Code with Front Matter](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;KyCblrCJdQA&#x2F;)
 * [#DevHack: Installing Hugo on Windows with WSL](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;4cT-lkUYELk&#x2F;)
 * [#DevHack: Authenticate Azure Web PubSub with Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;r8DtGGomVjg&#x2F;)
 * [Creating a PWA for your Microsoft Teams app](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;1Fiavpxf9Y0&#x2F;)
-* [#DevHack: Get the shared file info with Microsoft Graph](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;ym1u3SYYE5Y&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
