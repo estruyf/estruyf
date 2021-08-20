@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Demystify Microsoft Viva Connections its extensibility model](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;7PlllhTMJK4&#x2F;)
 * [#DevHack: language-specific settings in a VSCode extension](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;TFmQLBvWhjc&#x2F;)
 * [#DevHack: How to rename a file from a VSCode extension](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;WUiBRKDQdmU&#x2F;)
 * [#DevHack: Check if a VSCode extension is running in WSL](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;9cT8djCyBGs&#x2F;)
 * [Generate open graph preview image in Code with Front Matter](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;KyCblrCJdQA&#x2F;)
-* [#DevHack: Installing Hugo on Windows with WSL](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;estruyf&#x2F;~3&#x2F;4cT-lkUYELk&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
