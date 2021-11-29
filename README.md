@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Change is here - Rapid API here I am](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;moving-to-rapid-api&#x2F;)
 * [Can an AI be used as a ghostwriter for your articles?](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;ai-ghostwriter-articles&#x2F;)
 * [Reviewing Cloudflare Pages to show what it has to offer](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;reviewing-cloudflare-pages-show-offer&#x2F;)
 * [A look at the features and benefits of the Front Matter CMS](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;features-benefits-front-matter-cms&#x2F;)
 * [How a broken vertebra got me healthier working from home](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;broken-vertebra-healthier-working-home&#x2F;)
-* [Integrating Algolia DocSearch into Next.js like Docusaurus](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;integrating-algolia-docsearch-next-js-docusaurus&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
