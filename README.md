@@ -44,7 +44,7 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 
 <!--START_SECTION:feed-->
 * [Use React in your VSCode WebView with hot module replacement](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;react-vscode-webview-hot-module-replacement&#x2F;)
-* [#DevHack: check if how your VSCode extension is running](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-check-vscode-extension-running&#x2F;)
+* [#DevHack: check how your VSCode extension is running](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-check-vscode-extension-running&#x2F;)
 * [Change is here - Rapid API here I am](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;moving-to-rapid-api&#x2F;)
 * [Can an AI be used as a ghostwriter for your articles?](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;ai-ghostwriter-articles&#x2F;)
 * [Reviewing Cloudflare Pages to show what it has to offer](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;reviewing-cloudflare-pages-show-offer&#x2F;)
