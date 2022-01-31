@@ -43,11 +43,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [A code-driven approach to theme your VS Code webview](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;code-driven-approach-theme-vscode-webview&#x2F;)
 * [Taking the good out of the bad experiences, wrapping up 2021](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;good-bad-experiences-wrapping-2021&#x2F;)
 * [Use React in your VSCode WebView with hot module replacement](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;react-vscode-webview-hot-module-replacement&#x2F;)
 * [#DevHack: check how your VSCode extension is running](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-check-vscode-extension-running&#x2F;)
 * [Change is here - Rapid API here I am](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;moving-to-rapid-api&#x2F;)
-* [Can an AI be used as a ghostwriter for your articles?](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;ai-ghostwriter-articles&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
