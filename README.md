@@ -1,4 +1,5 @@
-![github-header](https://user-images.githubusercontent.com/2900833/157392990-c59bcfdc-df4a-4482-a20c-f581617a02d3.png)
+![Elio Struyf](https://user-images.githubusercontent.com/2900833/157393252-43a3c426-4fa8-4a53-89bf-372cf900eb07.png)
+
 
 
 # ⚡️ Elio Struyf
