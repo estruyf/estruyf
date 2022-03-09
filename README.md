@@ -9,11 +9,14 @@
   </a>&nbsp;&nbsp;
    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001411" title="MVP Profile from Elio Struyf">
      <img src="https://img.shields.io/badge/MVP-Office Development-%23D83B01.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.eliostruyf.com/contact" title="Contact me">
+   </a>
+</p> 
+
+<p align='center'>
+   <a href="https://www.eliostruyf.com/contact" title="Contact me">
     <img src="https://img.shields.io/badge/Struyf%20Consulting-Need%20Help%3F-%23025a5f.svg?&style=for-the-badge" />        
   </a>
-</p>  
+</p>
 
 <p align='center'>
    <a href="https://pimpyourowndevice.com/">
