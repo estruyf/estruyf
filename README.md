@@ -1,12 +1,11 @@
 ![Elio Struyf](https://user-images.githubusercontent.com/2900833/157393252-43a3c426-4fa8-4a53-89bf-372cf900eb07.png)
 
-
-
-# ⚡️ Elio Struyf
-
 <p align='center'>
    <a href="https://www.eliostruyf.com" title="Website from Elio Struyf">
      <img src="https://img.shields.io/badge/ElioStruyf-blog-%23025a5f.svg?&style=for-the-badge&logo=ElioStruyf&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://stars.github.com/profiles/estruyf/" title="GitHub Star Profile from Elio Struyf">
+     <img src="https://img.shields.io/badge/GitHub-Star-%23fa3768.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001411" title="MVP Profile from Elio Struyf">
      <img src="https://img.shields.io/badge/MVP-Office Development-%23D83B01.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
