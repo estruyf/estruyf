@@ -49,11 +49,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Extension trick to bring Visual Studio Code to foreground](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;trick-bring-visual-studio-code-foreground-extension&#x2F;)
 * [#DevHack: Fetching sponsors via the GitHub GraphQL API](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-fetching-sponsors-github-graphql-api&#x2F;)
 * [#DevHack: VS Code extension storage options](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-code-extension-storage-options&#x2F;)
 * [A code-driven approach to theme your VS Code webview](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;code-driven-approach-theme-vscode-webview&#x2F;)
 * [Taking the good out of the bad experiences, wrapping up 2021](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;good-bad-experiences-wrapping-2021&#x2F;)
-* [Use React in your VSCode WebView with hot module replacement](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;react-vscode-webview-hot-module-replacement&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
