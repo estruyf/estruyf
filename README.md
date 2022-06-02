@@ -49,11 +49,11 @@ When he isn’t helping fellow IT developers, you can find Elio Struyf on his bi
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Opening folders in Visual Studio Code from an extension](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;opening-folders-visual-studio-code-extension&#x2F;)
 * [Adding or deleting GitHub project labels on issues](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;adding-or-deleting-github-project-labels-on-issues&#x2F;)
 * [How to callback to your extension from outside VS Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;callback-extension-vscode&#x2F;)
 * [Create an Authentication Provider for Visual Studio Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;create-authentication-provider-visual-studio-code&#x2F;)
 * [How to use the Microsoft auth provider in Visual Studio Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;microsoft-authentication-provider-visual-studio-code&#x2F;)
-* [Extension tip to bring Visual Studio Code to the foreground](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;trick-bring-visual-studio-code-foreground-extension&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
