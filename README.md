@@ -38,13 +38,13 @@
 
 ## 👨‍💻 About me
 
-Elio is an independent Belgium-based Engineering Lead, Blogger, and Public Speaker whose tenacity, determination, and drive have earned him the reputation as a trusted thought leader in the information technology space. Deeply passionate about what he does for a living, he is a firm believer in following your dreams no matter what. To him, one’s profession should also be their purpose. Furthermore, he believes that we only have this one life to live, so we should spend that life feeling truly fulfilled both professionally and personally.
+Elio Struyf has led a remarkable career as an award-winning Engineering Lead, a trusted information technology thought-leader, and an energizing public speaker with over a decade of experience facilitating events and conferences across Europe.
 
-Throughout the last decade, Elio has gained extensive experience in Office 365 and SharePoint development. Within those 10 years, he was deemed a Microsoft MVP five consecutive times and has been recognized as a SharePoint/Office 365 Top 25 Influencer three times.
+Over his career, he has been invited to numerous cities including Barcelona, London, Paris, and Stockholm, where he has spoken on thought-provoking, development-related topics on Microsoft 365, SharePoint, and Azure DevOps. His extensive knowledge has seen him recognized as a Microsoft MVP eight times, a GitHub Star, and he has been recognized as a SharePoint/Microsoft 365 Top 25 Influencer four times.
 
-Elio’s inspiration for his blog began back in 2010 when he was facing a challenge that took him several days to overcome. The moment he found that solution, he realized how much he wanted to share his findings with the world. That’s when his blog was born. Fast-forward two years, and he expanded his horizons by dabbling in the public speaking arena. After speaking at a local BIWUG community ([https://biwug.be](https://biwug.be)) event and becoming their VP a year later, he knew this was yet another way he could not only connect with others but share valuable knowledge with them. What was once a fear of public speaking ultimately turned into an obsession.
+Today, along with acting as VP of BIWUG (Belgian Information Worker User Group), Elio is a Lead DevTools Engineer for RapidAPI on an independent contractor basis and has launched his own consulting company, Struyf Consulting.
 
-When he isn’t helping fellow IT developers, you can find Elio Struyf on his bike, coding, gaming (the Final Fantasy games are his favorite), binge-watching anime, or building random structures with Legos.
+Elio remains a sought-after speaker at various Microsoft-related community events and conferences, where he inspires, educates, and creates authentic connections with technology professionals and developers across Europe.
 
 ## 🖋 Blogging
 
