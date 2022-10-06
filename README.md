@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Simplify Visual Studio Code extension webview communication](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;simplify-communication-visual-studio-code-extension-webview&#x2F;)
 * [Creating a reusable auth provider in Visual Studio Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;creating-reusable-auth-provider-visual-studio-code&#x2F;)
 * [Adding editor actions for your extension webview in VSCode](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;adding-editor-actions-extension-webview-vscode&#x2F;)
 * [Open your VSCode extension walkthrough from a command](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;open-vscode-extension-walkthrough-command&#x2F;)
 * [Handle links in the terminal from your VSCode extension](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;handle-links-in-the-terminal-from-your-vscode-extension&#x2F;)
-* [Opening folders in Visual Studio Code from an extension](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;opening-folders-visual-studio-code-extension&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
