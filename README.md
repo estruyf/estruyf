@@ -88,6 +88,6 @@ We find laptops just dull and want to spice them up with some sticker art. As th
 
 <p align='center'>
    <a href="https://github.com/estruyf/github-visitors-badge">
-      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=estruyf&countColor=%237B1E7A" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=estruyf&countColor=%237B1E7A" />
    </a>
 </p>
