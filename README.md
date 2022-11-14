@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Finding your old GitHub Codespaces and deleting them](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;finding-github-codespaces-deleting&#x2F;)
 * [Someone is DDoS-ing my Azure Functions, and what to do](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;ddos-azure-functions-front-door&#x2F;)
 * [The story of buying a car and what went wrong with it](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;story-buying-car-wrong&#x2F;)
 * [Simplify Visual Studio Code extension webview communication](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;simplify-communication-visual-studio-code-extension-webview&#x2F;)
 * [Creating a reusable auth provider in Visual Studio Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;creating-reusable-auth-provider-visual-studio-code&#x2F;)
-* [Adding editor actions for your extension webview in VSCode](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;adding-editor-actions-extension-webview-vscode&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
