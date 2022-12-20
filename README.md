@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Cancel progress programmatically in VS Code extensions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;cancel-progress-programmatically-visual-studio-code-extensions&#x2F;)
 * [Make your auth provider work in GitHub and Gitpod codespaces](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;authentication-provider-work-github-gitpod-codespaces&#x2F;)
 * [#DevHack: using the VSCode&#39;s URI Handler in codespaces](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-vscode-uri-handler-codespaces&#x2F;)
 * [Migrate from Disqus to GitHub Discussions (giscus)](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;migrate-disqus-github-discussions-giscus&#x2F;)
 * [Calling the GitHub GraphQL API from an app](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;calling-github-graphql-api-app&#x2F;)
-* [Finding your old GitHub Codespaces and deleting them](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;finding-github-codespaces-deleting&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
