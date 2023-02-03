@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Make impactful presentations with Markdown and Slidev](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;impactful-presentations-markdown-slidev&#x2F;)
 * [Creating a Submenu in VS Code: A Step-by-Step Guide](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;creating-submenu-code-step-step-guide&#x2F;)
 * [Creating timer dismissable notifications in VS Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;creating-timer-dismissable-notifications-visual-studio-code-extension&#x2F;)
 * [The doubts, the achievements, and the progress. 2022 wrap-up](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;doubts-achievements-progress-2022-wrap&#x2F;)
 * [Cancel progress programmatically in VS Code extensions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;cancel-progress-programmatically-visual-studio-code-extensions&#x2F;)
-* [Make your auth provider work in GitHub and Gitpod codespaces](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;authentication-provider-work-github-gitpod-codespaces&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
