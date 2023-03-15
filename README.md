@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Symlink your content in Astro for better portability](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;symlink-content-astro-portability&#x2F;)
 * [MacBook Air M2: a great device for developers on the go](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;macbook-air-m2-perfect-device-developers&#x2F;)
 * [Use command URI in a VSCode webview to open files and links](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;command-uri-vscode-webview-open-files-links&#x2F;)
 * [Make impactful presentations with Markdown and Slidev](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;impactful-presentations-markdown-slidev&#x2F;)
 * [Creating a Submenu in VS Code: A Step-by-Step Guide](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;creating-submenu-code-step-step-guide&#x2F;)
-* [Creating timer dismissable notifications in VS Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;creating-timer-dismissable-notifications-visual-studio-code-extension&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
