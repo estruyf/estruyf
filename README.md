@@ -52,8 +52,8 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 * [The Future of Documentation: Ready for Change?](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;future-documentation-ready-change&#x2F;)
 * [A CSS hack to Visual Studio Code to move the Debug Toolbar](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;css-hack-visual-studio-code-move-debug-toolbar&#x2F;)
 * [Symlink your content in Astro for better portability](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;symlink-content-astro-portability&#x2F;)
+* [Symlink your content in Astro for better portability](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;symlink-content-astro-portability&#x2F;)
 * [MacBook Air M2: a great device for developers on the go](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;macbook-air-m2-perfect-device-developers&#x2F;)
-* [Use command URI in a VSCode webview to open files and links](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;command-uri-vscode-webview-open-files-links&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
