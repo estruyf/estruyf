@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Managing my Hugo website with a content and asset submodule](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;managing-hugo-website-content-asset-submodule&#x2F;)
 * [Dispatch a GitHub Action via a fine-grained PAT](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dispatch-github-action-fine-grained-personal-access-token&#x2F;)
 * [The Future of Documentation: Ready for Change?](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;future-documentation-ready-change&#x2F;)
 * [A CSS hack to Visual Studio Code to move the Debug Toolbar](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;css-hack-visual-studio-code-move-debug-toolbar&#x2F;)
 * [Symlink your content in Astro for better portability](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;symlink-content-astro-portability&#x2F;)
-* [MacBook Air M2: a great device for developers on the go](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;macbook-air-m2-perfect-device-developers&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
