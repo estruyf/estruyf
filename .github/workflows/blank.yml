@@ -12,3 +12,4 @@ jobs:
         with:
           feed-url: https://feeds.feedburner.com/estruyf
           readme-section: feed
+          empty-commits: false
