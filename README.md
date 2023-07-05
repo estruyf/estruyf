@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Localization of Visual Studio Code Extensions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;localization-visual-studio-code-extensions&#x2F;)
 * [Approve a multitenant permission scope for a SPFx solution](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;approve-multitenant-permission-scope-spfx-solution&#x2F;)
 * [Saying Goodbye to Rapid](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;goodbye-rapid-reflection-building-successful-code-extension&#x2F;)
 * [Managing my Hugo website with a content and asset submodule](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;managing-hugo-website-content-asset-submodule&#x2F;)
 * [Dispatch a GitHub Action via a fine-grained PAT](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dispatch-github-action-fine-grained-personal-access-token&#x2F;)
-* [The Future of Documentation: Ready for Change?](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;future-documentation-ready-change&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
