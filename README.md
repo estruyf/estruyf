@@ -40,9 +40,9 @@
 
 Elio Struyf has led a remarkable career as an award-winning Engineering Lead, a trusted information technology thought-leader, and an energizing public speaker with over a decade of experience facilitating events and conferences across Europe.
 
-Over his career, he has been invited to numerous cities including Barcelona, London, Paris, and Stockholm, where he has spoken on thought-provoking, development-related topics on Microsoft 365, SharePoint, and Azure DevOps. His extensive knowledge has seen him recognized as a Microsoft MVP eight times, a GitHub Star, and he has been recognized as a SharePoint/Microsoft 365 Top 25 Influencer four times.
+Over his career, he has been invited to numerous cities including Barcelona, London, Paris, and Stockholm, where he has spoken on thought-provoking, development-related topics on Microsoft 365, SharePoint, and Azure DevOps. His extensive knowledge has seen him recognized as a Microsoft MVP nine times, as a GitHub Star twice, a Google Developer Experts member, and he has been recognized as a SharePoint/Microsoft 365 Top 25 Influencer four times.
 
-Today, along with acting as VP of BIWUG (Belgian Information Worker User Group), Elio is a Lead DevTools Engineer for RapidAPI on an independent contractor basis and has launched his own consulting company, Struyf Consulting.
+Today, along with acting as VP of BIWUG (Belgian Information Worker User Group), Elio works as an independent contractor for his own consulting company, Struyf Consulting.
 
 Elio remains a sought-after speaker at various Microsoft-related community events and conferences, where he inspires, educates, and creates authentic connections with technology professionals and developers across Europe.
 
