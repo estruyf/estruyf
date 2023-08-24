@@ -49,11 +49,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [End-to-End Test Microsoft 365 Solutions with Playwright](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;test-microsoft-365-solutions-playwright&#x2F;)
 * [Retrieving an artifact from a previous GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;retrieving-artifact-previous-github-actions-workflow&#x2F;)
 * [Splitting VSCode Extension Settings into Multiple Categories](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;splitting-vscode-extension-settings-multiple-categories&#x2F;)
 * [Render your Astro markdown content for your overviews](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;render-astro-markdown-content-overviews&#x2F;)
 * [Leveraging Astro for React App Performance Boost](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;leveraging-astro-react-app-performance-boost&#x2F;)
-* [Localization of Webviews in Visual Studio Code Extensions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;localization-webviews-visual-studio-code&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
