@@ -9,6 +9,9 @@
   </a>&nbsp;&nbsp;
    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001411" title="MVP Profile from Elio Struyf">
      <img src="https://img.shields.io/badge/MVP-Office Development-%23D83B01.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
+   </a>&nbsp;&nbsp;
+   <a href="https://developers.google.com/profile/u/eliostruyf" title="GDE Profile from Elio Struyf">
+     <img src="https://img.shields.io/badge/GDE-%234285f4.svg?&style=for-the-badge&logo=Google&logoColor=white" />
    </a>
 </p> 
 
