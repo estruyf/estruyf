@@ -4,12 +4,12 @@
    <a href="https://www.eliostruyf.com" title="Website from Elio Struyf">
      <img src="https://img.shields.io/badge/ElioStruyf-blog-%23025a5f.svg?&style=for-the-badge&logo=ElioStruyf&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="https://stars.github.com/profiles/estruyf/" title="GitHub Star Profile from Elio Struyf">
-     <img src="https://img.shields.io/badge/GitHub Star-%23d4af37.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;
    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001411" title="MVP Profile from Elio Struyf">
      <img src="https://img.shields.io/badge/MVP-%230078d4.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
    </a>&nbsp;&nbsp;
+   <a href="https://stars.github.com/profiles/estruyf/" title="GitHub Star Profile from Elio Struyf">
+     <img src="https://img.shields.io/badge/GitHub Star-%23d4af37.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
    <a href="https://developers.google.com/profile/u/eliostruyf" title="GDE Profile from Elio Struyf">
      <img src="https://img.shields.io/badge/GDE-%234285f4.svg?&style=for-the-badge&logo=Google&logoColor=white" />
    </a>
