@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Linking and Unlinking Multilingual Pages in SharePoint](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;linking-unlinking-multilingual-pages-sharepoint&#x2F;)
 * [Add a custom themable icon to Visual Studio Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;add-custom-themable-icon-visual-studio-code&#x2F;)
 * [The Playwright Reporter for GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;playwright-reporter-github-actions&#x2F;)
 * [Test the unexpected API results with Playwright mocking](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;test-unexpected-api-results-playwright-mocking&#x2F;)
 * [End-to-End Test Microsoft 365 Solutions with Playwright](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;test-microsoft-365-solutions-playwright&#x2F;)
-* [Retrieving an artifact from a previous GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;retrieving-artifact-previous-github-actions-workflow&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
