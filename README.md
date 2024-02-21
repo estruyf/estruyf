@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Protect keys by keeping those out of your VS Code settings](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;protect-api-auth-keys-keeping-out-vscode-settings&#x2F;)
 * [Using GitHub Project webhooks to manage labeling repo issues](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;github-project-webhooks-manage-labeling-issues&#x2F;)
 * [The ups and downs. A look back at 2023.](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;ups-downs-recap-2023&#x2F;)
 * [It is Demo Time; how to make your live code demos smoother](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;demo-time-live-code-demos-smoother&#x2F;)
 * [Using Vite for bundling your Visual Studio Code extension](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;vite-bundling-visual-studio-code-extension&#x2F;)
-* [Things to know when using custom icons for VSCode commands](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;custom-icons-visual-studio-code-commands&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
