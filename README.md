@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Using CLI for Microsoft 365 in TypeScript Azure Functions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;cli-microsoft-365-typescript-azure-functions&#x2F;)
 * [Add a support link for a VSCode extension on the marketplace](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;add-support-link-vscode-extension-marketplace&#x2F;)
 * [Running .NET Azure Functions on macOS and Visual Studio Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;running-net-azure-functions-macos-visual-studio-code&#x2F;)
 * [Help my browser keeps refreshing my SharePoint page](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;browser-refreshing-sharepoint-page&#x2F;)
 * [Protect keys by keeping those out of your VS Code settings](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;protect-api-auth-keys-keeping-out-vscode-settings&#x2F;)
-* [Using GitHub Project webhooks to manage labeling repo issues](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;github-project-webhooks-manage-labeling-issues&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
