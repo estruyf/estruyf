@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Using Dev Proxy in your GitHub Actions workflow on Ubuntu](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dev-proxy-github-actions-workflow-ubuntu&#x2F;)
 * [Using Dev Proxy in your GitHub Actions workflow on macOS](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dev-proxy-github-actions-workflow-macos&#x2F;)
 * [#DevHack: Running a background service on GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-running-background-service-github-actions&#x2F;)
 * [#DevHack: use the synchronous Azure translation API in Node](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-synchronous-azure-translation-api-node&#x2F;)
 * [Locally verifying GitHub Actions Job Summaries](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;locally-verifying-github-actions-job-summaries&#x2F;)
-* [Using CLI for Microsoft 365 in TypeScript Azure Functions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;cli-microsoft-365-typescript-azure-functions&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
