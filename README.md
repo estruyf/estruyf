@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Use Playwright with Microsoft Dev Proxy on GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;playwright-microsoft-dev-proxy-github-actions&#x2F;)
 * [Developing custom plugins for the Microsoft&#39;s Dev Proxy](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;developing-custom-plugins-microsoft-dev-proxy&#x2F;)
 * [Caching Dev Proxy in your GitHub Actions workflows](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;caching-dev-proxy-github-actions-workflows&#x2F;)
 * [Using Dev Proxy in your GitHub Actions workflow on Ubuntu](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dev-proxy-github-actions-workflow-ubuntu&#x2F;)
 * [Using Dev Proxy in your GitHub Actions workflow on macOS](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dev-proxy-github-actions-workflow-macos&#x2F;)
-* [#DevHack: Running a background service on GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;devhack-running-background-service-github-actions&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
