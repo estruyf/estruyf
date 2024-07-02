@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Centralize your project files for your GitHub repositories](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;centralize-project-files-github-repositories&#x2F;)
 * [Using GitHub Copilot&#39;s LLM in your VS Code extension](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;github-copilot-llm-code-extension&#x2F;)
 * [Utilize command URIs for documentation access in VSCode](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;utilize-command-uris-documentation-access-vscode&#x2F;)
 * [Integrate your VS Code extension in SCM input](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;integrate-code-extension-scm-input&#x2F;)
 * [How to set the timezone for your GitHub Codespaces](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;set-timezone-github-codespaces&#x2F;)
-* [Level Up Your Presentations: Slidev &amp; Demo Time in VS Code](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;level-presentations-slidev-demo-time-code&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
