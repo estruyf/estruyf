@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Dispatch a GitHub Action workflow with script action](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dispatch-github-action-workflow-script-action&#x2F;)
 * [Override SPFx context properties during Playwright E2E tests](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;override-spfx-context-properties-playwright-e2e-tests&#x2F;)
 * [Reporting your Playwright tests to Microsoft Teams](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;reporting-playwright-tests-microsoft-teams&#x2F;)
 * [Centralize your project files for your GitHub repositories](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;centralize-project-files-github-repositories&#x2F;)
 * [Using GitHub Copilot&#39;s LLM in your VS Code extension](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;github-copilot-llm-code-extension&#x2F;)
-* [Utilize command URIs for documentation access in VSCode](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;utilize-command-uris-documentation-access-vscode&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
