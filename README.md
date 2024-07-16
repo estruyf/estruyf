@@ -52,11 +52,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Locally running and testing your custom GitHub Action](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;locally-testing-custom-github-action&#x2F;)
 * [Create GitHub issues on failed Playwright tests](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;create-github-issues-failed-playwright-tests&#x2F;)
 * [Dispatch a GitHub Action workflow with script action](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;dispatch-github-action-workflow-script-action&#x2F;)
 * [Override SPFx context properties during Playwright E2E tests](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;override-spfx-context-properties-playwright-e2e-tests&#x2F;)
 * [Reporting your Playwright tests to Microsoft Teams](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;reporting-playwright-tests-microsoft-teams&#x2F;)
-* [Centralize your project files for your GitHub repositories](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;centralize-project-files-github-repositories&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
