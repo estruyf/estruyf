@@ -63,9 +63,7 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 
 ## 🎙 Speaking
 
-Elio speaks at various conferences\*. If you are interested in having him at your conference, you can check out his [session list](https://www.eliostruyf.com/sessions/).
-
-> *: This has something to do with venues, lots of people, and sharing knowledge. Sad that this has been such a long time ago.
+Elio speaks at various conferences. If you want to have him at your conference ping him via mail at elio@struyfconsulting.be. You can check out his [session list](https://www.eliostruyf.com/sessions/).
 
 ## 🔖 Projects
 
