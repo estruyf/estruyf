@@ -1,4 +1,5 @@
-![Elio Struyf](https://user-images.githubusercontent.com/2900833/157393252-43a3c426-4fa8-4a53-89bf-372cf900eb07.png)
+![Elio Struyf](https://github.com/user-attachments/assets/72b39e6c-a4e6-4944-9b5e-9391e3579143)
+
 
 <p align='center'>
    <a href="https://www.eliostruyf.com" title="Website from Elio Struyf">
