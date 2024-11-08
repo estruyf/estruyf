@@ -1,4 +1,4 @@
-![Elio Struyf](https://github.com/user-attachments/assets/72b39e6c-a4e6-4944-9b5e-9391e3579143)
+![Elio Struyf](https://github.com/user-attachments/assets/15809079-ab48-4605-95aa-86e577e172e4)
 
 
 <p align='center'>
