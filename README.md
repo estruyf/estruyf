@@ -53,11 +53,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Mock Power Apps connectors in tests with Playwright](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;mock-power-apps-connectors-tests-playwright&#x2F;)
 * [Start testing your Power Apps with Playwright](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;start-testing-power-apps-playwright&#x2F;)
 * [E2E testing in MFA environment with Playwright auth session](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;e2e-testing-mfa-environment-playwright-auth-session&#x2F;)
 * [Fix Azure Function Node.js GitHub Actions Windows workflow](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;fix-azure-function-node-js-github-actions-windows-workflow&#x2F;)
 * [Breaking changes in the GitHub upload-artifact action](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;breaking-github-upload-artifact-action&#x2F;)
-* [Manage branch subdomains without Netlify DNS](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;manage-netlify-branch-subdomains-netlify-dns&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
