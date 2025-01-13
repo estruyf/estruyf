@@ -13,3 +13,10 @@ jobs:
           feed-url: https://feeds.feedburner.com/estruyf
           readme-section: feed
           empty-commits: false
+
+      - name: Fetch Sponsorships and Commit
+        uses: santoshyadavdev/sponsorship-green-squares@main
+        with:
+          allow-add-to-readme: 'true' # Default value, set to 'true' to enable README updates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
