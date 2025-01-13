@@ -14,6 +14,9 @@ jobs:
           feed-url: https://feeds.feedburner.com/estruyf
           readme-section: feed
           empty-commits: false
+      
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Fetch Sponsorships and Commit
         uses: santoshyadavdev/sponsorship-green-squares@main
