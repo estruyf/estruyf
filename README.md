@@ -88,11 +88,12 @@ We find laptops just dull and want to spice them up with some sticker art. As th
 - LinkedIn: [linkedin.com/in/estruyf/](https://www.linkedin.com/in/estruyf/)
 - Blog: [eliostruyf.com](https://www.eliostruyf.com)
 
+<!-- SPONSORSHIP-DATA:START -->
+<!-- SPONSORSHIP-DATA:END -->
+
+
 <p align='center'>
    <a href="https://github.com/estruyf/github-visitors-badge">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=estruyf&countColor=%237B1E7A" />
    </a>
 </p>
-
-<!-- SPONSORSHIP-DATA:START -->
-<!-- SPONSORSHIP-DATA:END -->
