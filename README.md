@@ -93,3 +93,6 @@ We find laptops just dull and want to spice them up with some sticker art. As th
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=estruyf&countColor=%237B1E7A" />
    </a>
 </p>
+
+<!-- SPONSORSHIP-DATA:START -->
+<!-- SPONSORSHIP-DATA:END -->
