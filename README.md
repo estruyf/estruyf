@@ -89,6 +89,7 @@ We find laptops just dull and want to spice them up with some sticker art. As th
 - Blog: [eliostruyf.com](https://www.eliostruyf.com)
 
 <!-- SPONSORSHIP-DATA:START -->
+
 <!-- SPONSORSHIP-DATA:END -->
 
 
