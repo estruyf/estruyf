@@ -71,7 +71,7 @@ Elio speaks at various conferences. If you want to have him at your conference p
 Elio loves to code, and that you might find some hidden treasures in his repositories. Here is a list of useful projects he frequently uses himself:
 
 - [Front Matter CMS](https://frontmatter.codes): Headless CMS right in your Visual Studio Code editor
-- [Demo Time][https://demotime.elio.dev): Script your coding demos to perfection with this VS Code extension – no typos, no missteps, just flawless, stress-free presentations every time. Execute each demo step seamlessly, just like advancing through a presentation!
+- [Demo Time](https://demotime.elio.dev): Script your coding demos to perfection with this VS Code extension – no typos, no missteps, just flawless, stress-free presentations every time. Execute each demo step seamlessly, just like advancing through a presentation!
 - [TypeScript Barrel Generator]([https://github.com/estruyf/vscode-typescript-exportallmodules](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules)): Visual Studio Code extension which generates an `index.ts` file with all the module exports from the current directory
 - [unicorn-busy-server](https://github.com/estruyf/unicorn-busy-server): Simple busy light server for Raspberry Pi Zero and Pimoroni Unicorn Hat
 - ...
