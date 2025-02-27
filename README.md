@@ -53,11 +53,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [RealTime News Updates in SharePoint Online with SPFx](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;realtime-news-updates-sharepoint-online-spfx&#x2F;)
 * [Useful Visual Studio Code settings for better coding demos](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;visual-studio-code-settings-coding-demos&#x2F;)
 * [Reflecting on an Incredible Year: 2024 Highlights](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;reflecting-incredible-year-2024-highlights&#x2F;)
 * [Mock Power Apps connectors in tests with Playwright](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;mock-power-apps-connectors-tests-playwright&#x2F;)
 * [Start testing your Power Apps with Playwright](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;start-testing-power-apps-playwright&#x2F;)
-* [E2E testing in MFA environment with Playwright auth session](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;e2e-testing-mfa-environment-playwright-auth-session&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
