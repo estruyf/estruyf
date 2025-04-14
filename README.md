@@ -53,11 +53,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Reviewing the Shokz OpenRun Pro 2 for cyclists](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;reviewing-shokz-openrun-pro-2-cyclists&#x2F;)
 * [My migration story from Hugo to Astro](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;migration-story-hugo-astro&#x2F;)
 * [Check your Azure Static Web App storage usage](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;check-azure-static-web-app-storage-usage&#x2F;)
 * [Authentication for Astro with Azure Static Web Apps](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;authentication-astro-azure-static-web-apps&#x2F;)
 * [Integrating Azure Functions into your Astro site](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;integrating-azure-functions-astro-site&#x2F;)
-* [Deploy Astro to Azure Static Web Apps from GitHub and CLI](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;deploy-astro-azure-static-web-apps-github-cli&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
