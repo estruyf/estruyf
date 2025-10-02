@@ -53,11 +53,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Building a GitHub Actions Artifacts dashboard with Spark](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;building-github-actions-artifacts-dashboard-github-spark&#x2F;)
 * [Azure Functions missing after zip deploy from GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;azure-functions-missing-zip-deploy-github-actions&#x2F;)
 * [Who’s funding open-source in 2025? A guide for maintainers.](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;whos-funding-open-source-2025-guide-maintainers&#x2F;)
 * [Translating Documents with Azure AI Translator&#39;s sync API](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;translating-documents-azure-ai-translator-sync-api&#x2F;)
 * [From idea to production in under an hour with AI](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;idea-production-hour-ai&#x2F;)
-* [Clean up old GitHub Actions artifacts with a script](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;clean-github-actions-artifacts-script&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
