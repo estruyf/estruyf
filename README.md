@@ -1,5 +1,5 @@
 ![Elio Struyf](https://github.com/user-attachments/assets/15809079-ab48-4605-95aa-86e577e172e4)
-![estruyf's GitHub Banner](https://raw.githubusercontent.com/estruyf/estruyf/main/banner.png)
+
 
 <p align='center'>
    <a href="https://www.eliostruyf.com" title="Website from Elio Struyf">
