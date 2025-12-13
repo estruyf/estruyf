@@ -53,11 +53,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Getting interviewed by AI to write better blog posts](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;interviewed-ai-write-blog-posts&#x2F;)
 * [Demo Time: From passion project to a sustainable future](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;demo-time-sustainable-future&#x2F;)
 * [My evolving relationship with AI in development](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;evolving-relationship-ai-development&#x2F;)
 * [Build a security agent with Copilot and GitHub Actions](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;custom-security-agent-github-copilot-actions&#x2F;)
 * [My AI Code Review Journey: Copilot, CodeRabbit, Macroscope](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;ai-code-review-journey-copilot-coderabbit-macroscope&#x2F;)
-* [Building FrameFit: AI-Powered macOS App in 3 Hours](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;building-framefit-with-ai&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
