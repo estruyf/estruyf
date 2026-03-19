@@ -53,11 +53,11 @@ Elio remains a sought-after speaker at various Microsoft-related community event
 ## 🖋 Blogging
 
 <!--START_SECTION:feed-->
+* [Switching from Apple Watch Ultra to Garmin Venu 4](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;apple-watch-ultra-to-garmin-venu-4&#x2F;)
 * [Control Your Mac with a 3-Button Voice Setup](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;control-mac-3-button-voice-setup&#x2F;)
 * [Are We Killing Indie Development with AI?](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;killing-indie-development-with-ai&#x2F;)
 * [Stop typing, start talking](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;stop-typing-start-talking&#x2F;)
 * [Is blogging still a thing? Thriving in the AI era](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;blogging-thriving-ai-era&#x2F;)
-* [Ghostwriter for VS Code: your AI interviewer in your editor](https:&#x2F;&#x2F;www.eliostruyf.com&#x2F;ghostwriter-code-ai-interviewer-editor&#x2F;)
 <!--END_SECTION:feed-->
 
 <!-- <embed type="image/svg+xml" src="https://estruyf-github.azurewebsites.net/api/RssSvg?url=https://feeds.feedburner.com/estruyf&nr=5&sanitize=true"/> -->
